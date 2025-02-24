@@ -1,3 +1,6 @@
+## Solenoid Sequencer
+
+Der Calliope Mini wird als Sequencer für bis zu vier Elektromagnete (Solenoid) verwendet.
 
 > Diese Seite bei [https://tianchrist.github.io/solenoid_sequencer/](https://tianchrist.github.io/solenoid_sequencer/) öffnen
 
